@@ -1,11 +1,11 @@
-import DigitalCLock from  './DigitalClock.jsx';
+import DigitalClock from  './DigitalClock.jsx';
 
 function App() {
  
 
   return (
    
-    <DigitalCLock />
+    <DigitalClock />
 
   );
 }
